@@ -8,7 +8,7 @@ This repository implements Zhang's algorithm to calculate the intrinsic camera p
 
 ---
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
