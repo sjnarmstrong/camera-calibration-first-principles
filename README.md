@@ -4,7 +4,7 @@
 
 This repository implements Zhang's algorithm to calculate the intrinsic camera parameters. A checkerboard is used as the ground-truth pattern for camera calibration. To detect and order the checkerboard corners, the corner detector proposed by Y. Liu is used. The resulting algorithm is compared to OpenCV's implementation.
 
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+![](docs/pngs/c09.png)
 
 ---
 
